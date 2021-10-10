@@ -48,7 +48,8 @@ author_profile: false
 <div class="content">
 	<ul>
 		<li>Alachua - Doxa Coffee Co.</li>
-		<li>Gainesville - Curia on the Drag</li>
+		<li>Gainesville - <a href="/_posts/2021-10-10-curia-on-the-drag.md">Curia on the Drag</a></li>
+		<li>Gainesville - Opus Coffee</li>
 		<li>Gainesville - Pascals Coffee House</li>
 	  	<li>Gainesville - Volta Coffee, Tea & Chocolate</li>
 	  	<li>High Springs - The Talented Cookie</li>
@@ -64,7 +65,7 @@ author_profile: false
 	<ul>
 		<li>Guthrie - Hoboken Coffee Roasters</li>
 		<li>Oklahoma City - Clarity Coffee</li>
-		<li>Oklhaoma City - Coffee Slingers Roasters</li>
+		<li>Oklahoma City - Coffee Slingers Roasters</li>
 	  	<li>Oklahoma City - Elemental Coffee</li>
 	  	<li>Stillwater - Aspen Coffee</li>
 	  	<li>Yukon - Red Bird Coffee House</li>
