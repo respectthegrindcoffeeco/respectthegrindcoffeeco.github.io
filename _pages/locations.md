@@ -48,7 +48,7 @@ author_profile: false
 <div class="content">
 	<ul>
 		<li>Alachua - Doxa Coffee Co.</li>
-		<li>Gainesville - <a href="/_posts/2021-10-10-curia-on-the-drag.md">Curia on the Drag</a></li>
+		<li>Gainesville - <a href="{% link _posts/2021-10-10-curia-on-the-drag.md %}">Curia on the Drag</a></li>
 		<li>Gainesville - Opus Coffee</li>
 		<li>Gainesville - Pascals Coffee House</li>
 	  	<li>Gainesville - Volta Coffee, Tea & Chocolate</li>
@@ -77,8 +77,8 @@ author_profile: false
 <div class="content">
 	<ul>
 		<li>Bryn Mawr - La Colombe Coffee Roasters</li>
-	  	<li>Devon - Pour Richard's Coffee</li>
-	  	<li>Philadelphia -  Coffee Roasters</li>
+		<li>Devon - Pour Richard's Coffee</li>
+		<li>Philadelphia - Greenstreet Coffee Roasters</li>
 	</ul>
 </div>
 
