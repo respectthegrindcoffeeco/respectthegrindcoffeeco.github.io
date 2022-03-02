@@ -44,6 +44,14 @@ author_profile: false
 <body>
 
 <h2>Locations</h2>
+<button type="button" class="collapsible">Colorado</button>
+<div class="content">
+	<ul>
+		<li>Keystone - Inxpot</li>
+		<li>Keystone - Steep Coffee Company</li>
+	</ul>
+
+</div>
 <button type="button" class="collapsible">Florida</button>
 <div class="content">
 	<ul>
