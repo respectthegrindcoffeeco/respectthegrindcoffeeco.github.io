@@ -9,7 +9,7 @@ excerpt: "Curia on the Drag - Gainesville, FL"
 
 # Overview
 
-Curia on the Drag is one of my favorite coffee shops.  Between the vibes, the cold brew, and the vegan options, this one is a winner in my book.  Curia is a small shop with  minimal indoor seating (don't expect to work in the A/C).  However, they have plenty of outdoor options with power outlets.  The drip coffee is just okay, but the cold brew is one of my favorites, anywhere.  It's like battery acid (in the best way possible).  They don't offer any pour-overs (insert sad face here), but they make a mean iced tea. Pastry choices vary each day and they are all vegan!  I recommend the scones.  Curia also has a unique market on their "compound", a bar called "Dad's", and a vegan food truck.  I recommend stopping by if you like strong cold brew.
+Curia on the Drag is one of my favorite coffee shops.  Between the vibes, the cold brew, and the vegan options, it's a winner in my book.  Curia is a small shop with minimal indoor seating (don't expect to work in the A/C).  However, they have plenty of outdoor options with power outlets.  The drip coffee is just okay but the cold brew is one of my favorites, anywhere.  It's like battery acid (in the best way possible).  They don't offer a pour-over (insert sad face here), but they make a mean iced tea. Pastry choices vary each day and they are all vegan!  I recommend the scones.  Curia also has a unique market on their "compound", a bar called "Dad's", and a vegan food truck.  I recommend stopping by if you like strong cold brew.
 
 # Ratings
 
