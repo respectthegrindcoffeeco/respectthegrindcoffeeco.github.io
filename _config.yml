@@ -20,7 +20,7 @@ title                    : "RESPECT THE GRIND"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Respect the Grind"
-description              : "A website dedicated to coffee."
+description              : "Dedicated to coffee."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

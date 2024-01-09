@@ -10,18 +10,29 @@ toc: false
 author_profile: false
 ---
 
-# The Grind's Top Five
-Picking a favorite coffee shop is hard.  So we didn't.  Peek our top five - in no particular order.
+# The Grind's Top Ten
+Picking a favorite coffee shop is hard.  So we didn't.  Peek our top ten - in no particular order.
 
 ## Elemental Coffee - Oklahoma City, OK
 
-## Foxtail Coffee Co. - Orlando, FL
+## Equator Coffees - San francisco, CA
 
 ## Buddy Brew Coffee - Tampa, FL
 
 ## Hoboken Coffee Roasters - Guthrie, OK
 
-## Craft & Common - Orlando, FL
+## Macondo Coffee Roasters - Coral Gables, FL
+
+## Green Engine Coffee Co - Haverford, PA
+
+## Curia on the Drag - Gainesville, FL
+
+## Dancing Goats - Atlanta, GA
+
+## Blue Bottle Coffee - San Francisco, CA
+
+## La Colombe - Philadelphia, PA
+
 
 
 
